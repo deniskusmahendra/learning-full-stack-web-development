@@ -2,6 +2,10 @@
 
 My personal repo of exercises and projects from learning full stack web development.
 
+## My Work
+
+- [Friend Group Website](https://github.com/denissamk/friend-group-website): a website for my friend group, my real web project.
+
 ## Credits
 
 The learning material and project ideas come from Scrimba's
