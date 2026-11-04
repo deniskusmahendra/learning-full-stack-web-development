@@ -1,0 +1,16 @@
+# Installed packages (reinstall with npm install)
+node_modules/
+
+# Secret keys
+.env
+.env.*
+
+# Build output
+.next/
+dist/
+
+# Editor settings
+.vscode/
+
+# Windows download tags
+*Zone.Identifier
