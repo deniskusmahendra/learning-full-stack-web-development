@@ -2,7 +2,7 @@
   "name": "wild-horizons",
   "version": "1.0.0",
   "description": "a dataset of the planet's most interesting places",
-  "author": "Denis Sam Kusmahendra",
+  "author": "Denis Kusmahendra",
   "type": "module",
   "main": "server.js",
   "scripts": {
